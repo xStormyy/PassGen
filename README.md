@@ -1,2 +1,2 @@
 # PassGen
-A Secure Login Credential Generator Made In Python.
+A Secure Login Credential Generator Using The Secret Module In Python.
